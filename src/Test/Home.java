@@ -7,7 +7,12 @@ public class Home {
 		System.out.println("Sample add");
 		System.out.println("Stash 1");
 		System.out.println("Control 1");
+<<<<<<< HEAD
 		System.out.println("This is the master branch");
+=======
+		System.out.println("This is the first branch");
+		 System.out.println("This is the first branch");
+>>>>>>> firstb
 
 	}
 }
