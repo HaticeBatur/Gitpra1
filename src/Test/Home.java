@@ -6,6 +6,7 @@ public class Home {
 		System.out.println("Add sample");
 		System.out.println("Sample add");
 		System.out.println("Stash 1");
+		System.out.println("Control 1");
 		
 	}
 }
