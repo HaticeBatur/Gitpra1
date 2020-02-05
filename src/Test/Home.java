@@ -5,6 +5,4 @@ public class Home {
 		System.out.println("This is git practice");
 		System.out.println("Add sample");
 		System.out.println("Sample add");
-
-	}
-}
+		System.out.println("Stash 1");
