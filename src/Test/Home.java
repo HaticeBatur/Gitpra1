@@ -7,6 +7,8 @@ public class Home {
 		System.out.println("Sample add");
 	
 		System.out.println("New check");
+		System.out.println("This is after commit");
+		
 
 
 	}
